@@ -1,7 +1,7 @@
 # Ciência de Dados com ênfase no mercado financeiro
 
 ## Descrição
-Meus trabalhos e desáfios da pós-graduação
+Meus trabalhos e desáfios na pós-graduação
 
 ## Tecnologias Utilizadas
 * python
