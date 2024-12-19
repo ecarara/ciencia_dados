@@ -6,7 +6,7 @@ Meus trabalhos e desáfios na pós-graduação
 ## Tecnologias Utilizadas
 * python
 * numpy
-* pandar
+* pandas
 * matplotlib
 * seaborn
 * plotly
