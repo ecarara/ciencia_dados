@@ -11,6 +11,7 @@ Meus trabalhos e desáfios na pós-graduação
 * seaborn
 * plotly
 * scikit-learn
+* excel
 
 ## Dados
 * **Fonte dos dados:** Meu curso de pós-graduação da XP Educação https://www.xpeducacao.com.br/
